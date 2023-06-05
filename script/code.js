@@ -24,8 +24,11 @@ add.addEventListener("click", (event)=> {
         list.innerHTML += `
         <li><input type="checkbox">
         ${name}
-        <button id="btn3">x</button>
         </li>
+        <button id="btn3">Delete</button>
+        <button id="btn3">Update</button>
+        <button id="btn3">Edit</button>
+        
         `
     })
 })

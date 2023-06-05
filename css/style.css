@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #D14D72;
+    background-color:#73BBC9;
      display: flex;
     justify-content: center;
     align-items: center;
@@ -22,8 +22,8 @@ h1{
 }
 
 #cont{
-    border: 3px solid #FFABAB;
-    background-color: #FFABAB;
+    border: 3px solid #F1D4E5;
+    background-color: #F1D4E5;
     width: fit-content;
     font-family: 'Sedgwick Ave Display', cursive;
     font-family: 'Teko', sans-serif;
@@ -40,18 +40,22 @@ input{
 button{
     border-radius: 5px;
     cursor: pointer;
-    background-color: #FCC8D1;
+    background-color: #FCE9F1;
     padding: 5px;
 }
 
 button:hover{
-    background-color: #ffc2d1;
+    background-color: #f8c1d8;
     color: white;
 }
 
 #list{
     list-style: none;
     text-align: center;
+}
+
+#btn3{
+    
 }
 
 
